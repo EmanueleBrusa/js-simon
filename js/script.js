@@ -28,7 +28,7 @@ setTimeout(function(){
     document.body.innerHTML = "";
 
 //secondi prima che scompaiano i numeri a schermo
-}, 1000);
+}, 30000);
 
 setTimeout(function(){
 
@@ -78,4 +78,4 @@ setTimeout(function(){
 
 
 //secondi prima che spunti il primo prompt
-}, 2000)
+}, 30500)
